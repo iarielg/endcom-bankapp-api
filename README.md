@@ -23,7 +23,7 @@ Postman
 
 ## Referencia API
 
-#### Get all items
+#### create-account/
 
 ```http
   GET /create-account/
@@ -40,7 +40,7 @@ Postman
 |`balance`|`Float`|**Required**|
 
 
-#### Get item
+#### movement/
 
 ```http
   GET /movement/
